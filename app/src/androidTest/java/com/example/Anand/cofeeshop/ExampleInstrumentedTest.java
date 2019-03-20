@@ -1,4 +1,4 @@
-package com.example.sahil.cofeeshop;
+package com.example.Anand.cofeeshop;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

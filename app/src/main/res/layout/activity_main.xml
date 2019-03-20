@@ -236,7 +236,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text=" What cofee would you like to odder, sir ?"
+        android:text=" What cofee would you like to order, sir ?"
         android:textAllCaps="false"
         android:textColor="@android:color/holo_orange_dark"
         android:textSize="20sp"
